@@ -10,7 +10,7 @@
 
 
 
-**版权声明**：本仓库来自 https://gitlab.com/rosarior/awesome-django，因为作者已经停止维护，我转到了 GitHub，翻译并且修改了名字。我会更新、添加、或者去掉部分内容，具体请看提交记录。
+**版权声明**：本仓库来自 https://gitlab.com/rosarior/awesome-django ，因为作者已经停止维护，我转到了 GitHub，翻译并且修改了名字。我会更新、添加、或者去掉部分内容，具体请看提交记录。（[点击查看英文原版](https://github.com/ldsxp/django-apps/blob/master/README-EN.md)，我不更新也不修改她）
 
 
 
