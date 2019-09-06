@@ -73,7 +73,8 @@
   - [视频](#视频)
   - [网站](#网站)
 - [事业](#事业)
-- [特约](#数据库)
+
+  
 
 ## 管理界面
 
@@ -504,7 +505,7 @@
 - [django-redactoreditor](https://github.com/mazelife/django-redactoreditor/) - 这个包有助于在Django中集成Redactor Javascript WYSIWYG编辑器。
 - [django-wysiwyg](https://github.com/pydanny-archive/django-wysiwyg/) - 用于制作Django textareas富文本编辑器的Django应用程序。当然作为模板标签，可能作为表单小部件。
 
-## 维基
+## Wiki应用程序
 
 *用于向项目添加Wiki功能的包。*
 
