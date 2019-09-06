@@ -12,68 +12,68 @@
 
 **版权声明**：本仓库来自 https://gitlab.com/rosarior/awesome-django ，因为作者已经停止维护，我转到了 GitHub，翻译并且修改了名字。我会更新、添加、或者去掉部分内容，具体请看提交记录。（[点击查看英文原版](https://github.com/ldsxp/django-apps/blob/master/README-EN.md)，我不更新也不修改她）
 
+# 内容导航
 
-
-- 令人敬畏的Django
-  - [管理界面](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#admin-interface)
-  - [Analytics（分析）](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#analytics)
-  - [资产管理](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#asset-management)
-  - [认证](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#authentication)
-  - [授权](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#authorization)
-  - [博客管理](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#blog-management)
-  - [样板](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#boilerplate)
-  - [高速缓存](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#caching)
-  - [兼容性](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#compatibility)
-  - [CRM](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#crm)
-  - [仪表板](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#dashboards)
-  - [数据科学](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#data-sciences)
-  - [数据库](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#database)
-  - [调试](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#debugging)
-  - [电子邮件](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#email)
-  - [字段](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#fields)
-  - [文件传输](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#file-transfers)
-  - [形式](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#forms)
-  - [GIS](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#gis)
-  - [图像处理](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#image-handling)
-  - [进出口](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#importexport)
-  - [迁移](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#migrations)
-  - [移动支持](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#mobile-support)
-  - [模型扩展](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#model-extensions)
-  - [多租户](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#multitenancy)
-  - [交付过程](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#payment-processing)
-  - [项目管理](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#project-management)
-  - [报告](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#reporting)
-  - [RESTful API](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#restful-api)
-  - [SEO](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#seo)
-  - [搜索](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#search)
-  - [安全](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#security)
-  - [设置](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#settings)
-  - [存储](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#storage)
-  - [标记](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#tagging)
-  - [任务队列](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#task-queue)
-  - [测试](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#testing)
-  - [缩略图](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#thumbnail)
-  - [翻译](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#translations)
-  - [查看](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#views)
-  - [Web前端集成](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#web-frontend-integration)
-  - [Wiki应用程序](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#wiki-apps)
-  - [工作流程](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#workflows)
-  - [所见即所得编辑](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#wysiwyg-editors)
-  - [其他](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#other)
+- Django 应用
+  - [管理界面](#管理界面)
+  - [Analytics（分析）](#Analytics分析)
+  - [资产管理](#资产管理)
+  - [认证](#认证)
+  - [授权](#授权)
+  - [博客管理](#博客管理)
+  - [样板](#样板)
+  - [高速缓存](#高速缓存)
+  - [兼容性](#兼容性)
+  - [CRM](#CRM)
+  - [仪表板](#仪表板)
+  - [数据科学](#数据科学)
+  - [数据库](#数据库)
+  - [调试](#调试)
+  - [电子邮件](#电子邮件)
+  - [字段](#字段)
+  - [文件传输](#文件传输)
+  - [形式](#形式)
+  - [GIS](#GIS)
+  - [图像处理](#图像处理)
+  - [导入导出](#导入导出)
+  - [迁移](#迁移)
+  - [移动支持](#移动支持)
+  - [模型扩展](#模型扩展)
+  - [多租户](#多租户)
+  - [交付过程](#交付过程)
+  - [项目管理](#项目管理)
+  - [报告](#报告)
+  - [RESTful API](#restful-api)
+  - [SEO](#SEO)
+  - [搜索](#搜索)
+  - [安全](#安全)
+  - [设置](#设置)
+  - [存储](#存储)
+  - [标记](#标记)
+  - [任务队列](#任务队列)
+  - [测试](#测试)
+  - [缩略图](#缩略图)
+  - [翻译](#翻译)
+  - [查看](#查看)
+  - [Web前端集成](#Web前端集成)
+  - [Wiki应用程序](#Wiki应用程序)
+  - [工作流程](#工作流程)
+  - [所见即所得编辑](#所见即所得编辑)
+  - [其他](#其他)
 - 项目
-  - [CMS](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#cms)
-  - [文件管理](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#document-management)
-  - [项目管理](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#project-management)
-  - [电子商务](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#e-commerce)
-  - [其他](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#other)
+  - [CMS](#CMS)
+  - [文件管理](#文件管理)
+  - [项目管理](#项目管理)
+  - [电子商务](#电子商务)
+  - [其他](#其他)
 - 资源
-  - [图书](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#books)
-  - [会议](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#conferences)
-  - [外部文件](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#external-documentation)
-  - [影片](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#videos)
-  - [网站](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#websites)
-- [公用事业](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#utilities)
-- [特约](https://gitlab.com/rosarior/awesome-django/tree/d25bd21d6663dce0facc872896a58a39c4dd006b#contributing)
+  - [图书](#图书)
+  - [会议](#会议)
+  - [外部文档](#外部文档)
+  - [视频](#视频)
+  - [网站](#网站)
+- [事业](#事业)
+- [特约](#数据库)
 
 ## 管理界面
 
@@ -291,7 +291,7 @@
 - [django-image-cropping](https://github.com/jonasundderwolf/django-image-cropping) - 帮助应用程序轻松地，非破坏性地在管理员和前端中裁剪任意大的图像。
 - [django-versatileimagefield](https://github.com/respondcreate/django-versatileimagefield/) - django的ImageField的直接替代品，提供灵活，直观且易于扩展的界面，可快速创建分配给现场的新图像。
 
-## 进出口
+## 导入导出
 
 - [django-import-export](https://github.com/django-import-export/django-import-export) - 用于通过管理集成导入和导出数据的Django应用程序和库。
 
@@ -647,21 +647,21 @@
 
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - 用于快速创建Django项目的cookiecutter模板。
 
-## 外部文件
+## 外部文档
 
 *有关django功能的其他信息来源。*
 
 - [优雅的基于类的视图](http://ccbv.co.uk/) - 每个Django基于类的通用视图的详细描述，包含完整的方法和属性。
 - [优雅的Django REST框架](http://www.cdrf.co/) - 为Django REST Framework的每个基于类的视图和序列化程序提供完整方法和属性的详细描述。
 
-## 影片
+## 视频
 
 - [CodingforEntrepreneur](https://www.codingforentrepreneurs.com/projects/) - Django视频的最佳集合之一，所有项目都是用Django编写的。
 - [Code School - 尝试Django](https://www.codeschool.com/courses/try-django) - 介绍Django的基础知识。
 - [GoDjango](https://godjango.com/) - 从基础到高级的Django视频。将第三方应用程序覆盖到核心Django组件。
 - [必须观看Django视频](https://gitlab.com/rosarior/django-must-watch) - 必须观看有关Django的视频（或关于应用于Django的Python）
 
-# 公用事业
+# 事业
 
 *非Django项目使Django更容易使用。*
 
