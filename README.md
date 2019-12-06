@@ -629,6 +629,8 @@
 | [micawber](https://github.com/coleifer/micawber/)            |      |          | 一个用于从网址中提取丰富内容的小型库。                       |      |
 | [towel](https://github.com/matthiask/towel/)                 |      |          | 如果您使用Django构建Web应用程序，这些工具可以让您的生活更轻松。 |      |
 | [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) |      |          | 在视觉上区分Django Admin中的环境。                           |      |
+| [django-utils](https://github.com/WoLpH/django-utils) |      |          | Django Utils 是小型 Django 辅助函数和类的集合，这些函数和类使通用模式更短，更容易 |      |
+
 
 # 项目
 
