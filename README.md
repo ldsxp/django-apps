@@ -67,6 +67,7 @@
 | [djangowpadmin](https://github.com/barszczmm/djangowpadmin/) |      |          | Django管理面板的WordPress外观和感觉。                        |      |
 | [djangoxadmin](https://github.com/sshwsfc/xadmin/)           |      |          | 直接替换Django管理员带来了很多好东西，完全可扩展的插件支持，基于Twitter Bootstrap的漂亮用户界面 |      |
 | [yawdadmin](https://github.com/yawd/yawdadmin/)              |      |          | Django的管理网站                                             |      |
+| [django-admin-generator](https://github.com/WoLpH/django-admin-generator)              |      |          | 通过自省和查询模型自动生成功能全面的Django admin                                             |      |
 
 
 ## Analytics（分析）
