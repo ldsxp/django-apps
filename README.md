@@ -68,6 +68,7 @@
 | [djangoxadmin](https://github.com/sshwsfc/xadmin/)           |      |          | 直接替换Django管理员带来了很多好东西，完全可扩展的插件支持，基于Twitter Bootstrap的漂亮用户界面 |      |
 | [yawdadmin](https://github.com/yawd/yawdadmin/)              |      |          | Django的管理网站                                             |      |
 | [django-admin-generator](https://github.com/WoLpH/django-admin-generator)              |      |          | 通过自省和查询模型自动生成功能全面的Django admin                                             |      |
+| [django-object-actions](https://github.com/crccheck/django-object-actions)              |      |          | 可轻松在 Django admin 中添加对象工具                                             |      |
 
 
 ## Analytics（分析）
