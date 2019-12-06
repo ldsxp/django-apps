@@ -69,6 +69,7 @@
 | [yawdadmin](https://github.com/yawd/yawdadmin/)              |      |          | Django的管理网站                                             |      |
 | [django-admin-generator](https://github.com/WoLpH/django-admin-generator)              |      |          | 通过自省和查询模型自动生成功能全面的Django admin                                             |      |
 | [django-object-actions](https://github.com/crccheck/django-object-actions)              |      |          | 可轻松在 Django admin 中添加对象工具                                             |      |
+| [django-admin-extra-urls](https://github.com/saxix/django-admin-extra-urls)              |      |          | 可轻松在任何 Django ModelAdmin 相关页面上添加按钮                                            |      |
 
 
 ## Analytics（分析）
