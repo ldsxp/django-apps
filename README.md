@@ -70,6 +70,7 @@
 | [django-admin-generator](https://github.com/WoLpH/django-admin-generator)              |      |          | 通过自省和查询模型自动生成功能全面的Django admin                                             |      |
 | [django-object-actions](https://github.com/crccheck/django-object-actions)              |      |          | 可轻松在 Django admin 中添加对象工具                                             |      |
 | [django-admin-extra-urls](https://github.com/saxix/django-admin-extra-urls)              |      |          | 可轻松在任何 Django ModelAdmin 相关页面上添加按钮                                            |      |
+| [django-constance](https://github.com/jazzband/django-constance)              |      |          | 将动态设置存储在可插拔的后端中，并与 Django admin 应用程序集成                                            |      |
 
 
 ## Analytics（分析）
