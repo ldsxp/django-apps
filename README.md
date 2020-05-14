@@ -67,10 +67,11 @@
 | [djangowpadmin](https://github.com/barszczmm/djangowpadmin/) |      |          | Django管理面板的WordPress外观和感觉。                        |      |
 | [djangoxadmin](https://github.com/sshwsfc/xadmin/)           |      |          | 直接替换Django管理员带来了很多好东西，完全可扩展的插件支持，基于Twitter Bootstrap的漂亮用户界面 |      |
 | [yawdadmin](https://github.com/yawd/yawdadmin/)              |      |          | Django的管理网站                                             |      |
-| [django-admin-generator](https://github.com/WoLpH/django-admin-generator)              |      |          | 通过自省和查询模型自动生成功能全面的Django admin                                             |      |
-| [django-object-actions](https://github.com/crccheck/django-object-actions)              |      |          | 可轻松在 Django admin 中添加对象工具                                             |      |
-| [django-admin-extra-urls](https://github.com/saxix/django-admin-extra-urls)              |      |          | 可轻松在任何 Django ModelAdmin 相关页面上添加按钮                                            |      |
-
+| [django-admin-generator](https://github.com/WoLpH/django-admin-generator) |      |          | 通过自省和查询模型自动生成功能全面的Django admin             |      |
+| [django-object-actions](https://github.com/crccheck/django-object-actions) |      |          | 可轻松在 Django admin 中添加对象工具                         |      |
+| [django-admin-extra-urls](https://github.com/saxix/django-admin-extra-urls) |      |          | 可轻松在任何 Django ModelAdmin 相关页面上添加按钮            |      |
+| [django-simple-history](https://github.com/treyhunner/django-simple-history) |      |          | 存储模型历史记录，并从管理站点查看/还原更改                  |      |
+| [django-grappelli](https://github.com/sehmaschine/django-grappelli) |      |          | Django Admin-Interface（官方存储库）的爵士外观               |      |
 
 ## Analytics（分析）
 
@@ -281,6 +282,7 @@
 | [django-bootstrap3](https://github.com/dyve/django-bootstrap3/) |      |          | 在Django模板中使用Bootstrap，即Django方式。                  |      |
 | [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) |      |          | 拥有DRY Django形式的最佳方式。该应用程序提供了一个标记和过滤器，使您可以快速呈现div格式的表单，同时提供大量配置和控制呈现的HTML的功能。 |      |
 | [django-floppyforms](https://github.com/gregmuellegger/django-floppyforms/) |      |          | django-floppyforms是一个应用程序，它可以让您完全控制表单呈现的输出。表单API和功能与Django完全相同，关键区别在于字段和小部件在模板中呈现而不是使用字符串插值，使您可以使用Django模板完全控制输出。 |      |
+| [django-material](https://github.com/viewflow/django-material) |      |          | Material Design for Django                                   |      |
 
 ## GIS
 
@@ -584,6 +586,7 @@
 | [django-viewflow](https://github.com/viewflow/viewflow)      |      |          | Django的可重用工作流库。                                     |      |
 | [django-workflows](https://bitbucket.org/jerzyk/django-workflows/) |      |          | django-workflows为Django提供了一个通用的工作流引擎。         |      |
 | [django-xworkflows](https://github.com/rbarrois/django_xworkflows/) |      |          | 将xworkflow插入django模型的库。                              |      |
+| [django-helpdesk](https://github.com/django-helpdesk/django-helpdesk) |      |          | django-helpdesk-适用于小型企业的Django支持的票务跟踪器       |      |
 
 ## 其他
 
